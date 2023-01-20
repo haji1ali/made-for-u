@@ -1,0 +1,175 @@
+header{
+    background-color: black;
+    
+}
+.special img{
+    background-position: top center;
+    padding: 40px;
+}
+body{
+    background-color: rgb(161, 221, 241);
+    padding: 20px;
+    margin: 15px 30px;
+    font-size: 20px;
+   
+}
+body{
+    padding: 10px 20px 15px;
+    border:solid burlywood;
+    border-radius: 5px;
+    border-width: 10px;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 80px;
+}
+p{
+    font-size: 25px;
+    text-decoration-style: solid ;
+    font-style: italic;
+
+}
+h2{
+    font-size: 30px;
+    margin: 50px;
+}
+h3{
+    font-size: 40px;
+    margin: 50px;
+}
+h6{
+    background-color: gray;
+    text-align: center;
+    font-size: 20px;
+}
+.CLICK{
+    color: red;
+}
+.special2{
+    color: red;
+    
+}
+h4{
+    font-size: 30px;
+}
+ul{
+    font-size: 20px;
+}
+.for{
+    color: red;
+    font-size: 18px;
+    
+}
+.for1{color: red;
+    font-size: 18px;
+
+}
+.home{
+    color: red;
+}
+.for2{
+    color: red;
+    font-size: 18px;
+}
+.contact{
+    color: red;
+    font-size: 25px;
+}
+h5{
+    font-size: 20px;
+}
+.contact1{
+    margin: 15px 30px;
+    font-size: 20px;
+    padding: 20px;
+}
+.contact1{
+    background-color: #f2f2ff;
+    
+    padding: 10px 20px 15px;
+    border: 10px solid lightblue;
+    border-radius: 5px;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"],
+input[type="password"],
+select,
+textarea{
+    width: 100%;
+    padding: 10px;
+    border: 5px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+}
+fieldset{
+
+    background-color: #f2f2f2;
+    border: 5px solid #ccc;
+}
+
+input[type="submit"]{
+    background-color: rgb(165, 223, 165);
+    color: honeydew;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 80%;
+}
+
+button{
+    font-size:20px;
+    color: chartreuse;
+    background-color:cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    width: 50%;
+    height: 30px;
+    cursor: pointer;
+    padding: 10px;
+    
+    }
+     .thank body{
+        background-color: rgb(161, 221, 241);
+        padding: 20px;
+        margin: 15px 30px;
+        font-size: 20px;
+       
+
+    }
+    .thank a{
+        color: red;
+    }
+    .list{
+        background-color: aqua;
+    }
+    .list ,table, tr, th, td {
+        text-decoration: top;
+        border: 2px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        border-spacing: 5px;
+    }
+    .list ,table {
+        display: table;
+        border-collapse: separate;
+        box-sizing: border-box;
+        text-indent: initial;
+        border-spacing: 2px;
+        border-color: grey;
+    }
+    
+footer a{
+    padding: 10px;
+    margin: 10px;
+}
+
+
+
+
+
